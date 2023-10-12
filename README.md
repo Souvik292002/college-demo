@@ -1,4 +1,4 @@
 # college-demo
 my first repo
 <br>
-Author - SouvikRoy
+Author - Souvik(college-demo)
